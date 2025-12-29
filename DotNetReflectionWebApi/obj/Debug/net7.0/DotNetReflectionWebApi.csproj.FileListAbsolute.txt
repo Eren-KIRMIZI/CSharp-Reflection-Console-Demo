@@ -1,0 +1,14 @@
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\bin\Debug\net7.0\DotNetReflectionWebApi.exe
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\bin\Debug\net7.0\DotNetReflectionWebApi.deps.json
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\bin\Debug\net7.0\DotNetReflectionWebApi.runtimeconfig.json
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\bin\Debug\net7.0\DotNetReflectionWebApi.dll
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\bin\Debug\net7.0\DotNetReflectionWebApi.pdb
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\obj\Debug\net7.0\DotNetReflectionWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\obj\Debug\net7.0\DotNetReflectionWebApi.AssemblyInfoInputs.cache
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\obj\Debug\net7.0\DotNetReflectionWebApi.AssemblyInfo.cs
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\obj\Debug\net7.0\DotNetReflectionWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\obj\Debug\net7.0\DotNetReflectionWebApi.dll
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\obj\Debug\net7.0\refint\DotNetReflectionWebApi.dll
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\obj\Debug\net7.0\DotNetReflectionWebApi.pdb
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\obj\Debug\net7.0\DotNetReflectionWebApi.genruntimeconfig.cache
+C:\Users\Eren\Desktop\DotNetReflectionWebApi\CSharpReflectionSolution\DotNetReflectionWebApi\obj\Debug\net7.0\ref\DotNetReflectionWebApi.dll
